@@ -94,4 +94,4 @@ Some popular Free Tier services:
 
 ---
 
-If you want, I can guide you through **each step live**, or help you **set up EC2, S3, Lambda, IAM**, etc.
+
